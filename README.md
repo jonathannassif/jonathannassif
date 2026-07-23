@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Jonathan 👋
 
-<!--
-**jonathannassif/jonathannassif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Front-End Developer building clean, modern web experiences.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+
+### 🌌 3D Portfolio
+Personal portfolio built with React and Three.js.
+
+🔗 Live Demo: your-link-here
+📂 Source: your-repo-link-here
+
+### 🎓 Aristo Tech
+STEAM education platform for Egyptian youth — migrated solo from vanilla HTML/CSS/JS to React (Vite, Tailwind, React Router) with Supabase auth & database.
+
+🔗 Live Demo: aristotech.com
+📂 Source: your-repo-link-here
+
+### 🤖 AI Directory
+Directory site built with HTML, Tailwind CSS, and JavaScript.
+
+🔗 Live Demo: your-link-here
+📂 Source: your-repo-link-here
+
+---
+
+## 🛠 Tech Stack
+
+React · Vite · Tailwind CSS · JavaScript · Supabase
+
+---
+
+## 📫 Contact
+
+LinkedIn: your-link
+Portfolio: your-link
