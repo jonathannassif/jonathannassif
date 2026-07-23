@@ -1,3 +1,6 @@
+## 📊 GitHub Stats
+![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathannassif&show_icons=true&theme=default)
+
 Hi, I'm Jonathan 👋
 
 Full Stack Developer building clean, modern web experiences.
