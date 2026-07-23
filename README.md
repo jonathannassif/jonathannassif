@@ -1,6 +1,3 @@
-## 📊 GitHub Stats
-![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathannassif&show_icons=true&theme=default)
-
 Hi, I'm Jonathan 👋
 
 Full Stack Developer building clean, modern web experiences.
@@ -34,3 +31,6 @@ React · Vite · Tailwind CSS · JavaScript · Supabase · Next · Java · Sprin
 
 LinkedIn: [your-link](https://www.linkedin.com/in/jonathan-nassif/)
 Portfolio: [your-link](https://jonathan-modern-portfolio.vercel.app/)
+
+## 📊 GitHub Stats
+![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathannassif&show_icons=true&theme=default)
