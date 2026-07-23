@@ -33,4 +33,4 @@ LinkedIn: [your-link](https://www.linkedin.com/in/jonathan-nassif/)
 Portfolio: [your-link](https://jonathan-modern-portfolio.vercel.app/)
 
 ## 📊 GitHub Stats
-![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathannassif&show_icons=true&theme=default)
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jonathannassif&show_icons=true&theme=default)
