@@ -16,7 +16,7 @@ Personal portfolio built with React and Three.js.
 STEAM education platform for Egyptian youth — migrated solo from vanilla HTML/CSS/JS to React (Vite, Tailwind, React Router) with Supabase auth & database.
 
 🔗 Live Demo: [aristotech.com](https://aristoeducation.net/)
-📂 Source: (https://github.com/jonathannassif/Aristo-Education-)
+📂 Source: [github/Modern-portfolio] (https://github.com/jonathannassif/Aristo-Education-)
 
 
 ---
