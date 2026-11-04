@@ -10,7 +10,7 @@ I'm passionate about backend development, clean architecture, database design, a
 
 
 
-**Tech Stack**
+-- **Tech Stack**
 
 **Backend Development**
 
@@ -30,7 +30,7 @@ Clean Architecture · SOLID Principles · Dependency Injection · Git · GitHub 
 
 
 
-**Experience**
+-- **Experience**
 
 **.NET Back-End Trainee | AlAhlyMomkn**
 
@@ -51,7 +51,7 @@ Clean Architecture · SOLID Principles · Dependency Injection · Git · GitHub 
 
 
 
-**Featured Projects**
+-- **Featured Projects**
 
 **Aristo Education**
 
@@ -78,7 +78,7 @@ An interactive personal portfolio featuring 3D experiences, responsive layouts, 
 
 
 
-**Currently Focusing On**
+-- **Currently Focusing On**
 
 - Advanced ASP.NET Core and Entity Framework Core
 - SQL Server and database optimization
@@ -88,14 +88,13 @@ An interactive personal portfolio featuring 3D experiences, responsive layouts, 
 
 
 
-**GitHub Stats**
+-- **GitHub Stats**
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jonathannassif&show_icons=true&theme=default)
 
 
 
-##  Connect With Me
-
+-- **Connect With Me**
  [LinkedIn](https://www.linkedin.com/in/jonathan-nassif/)
 
  [Portfolio](https://jonathan-modern-portfolio.vercel.app/)
