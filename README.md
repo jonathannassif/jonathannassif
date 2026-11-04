@@ -88,12 +88,6 @@ An interactive personal portfolio featuring 3D experiences, responsive layouts, 
 
 
 
--- **GitHub Stats**
-
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jonathannassif&show_icons=true&theme=default)
-
-
-
 -- **Connect With Me**
  [LinkedIn](https://www.linkedin.com/in/jonathan-nassif/)
 
